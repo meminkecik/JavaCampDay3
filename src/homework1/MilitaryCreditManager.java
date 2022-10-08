@@ -1,4 +1,4 @@
-package Homework1;
+package homework1;
 
 public class MilitaryCreditManager extends BaseCreditManager implements ICreditManager{
     @Override
